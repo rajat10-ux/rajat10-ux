@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/7yZ8F8s.png" width="100%" alt="Rajat Kumar | Software Developer Engineer">
-</p>
-
 <h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
 <h3 align="center">Software Developer Engineer Intern @ STMicroelectronics | Java & Backend Developer</h3>
 
@@ -35,7 +31,7 @@
 #### **💰 Money Manager App (Spring Boot, Java, MySQL, JWT)** — *July 2025*
 - Built secure backend APIs for authentication, income/expense tracking & data management.  
 - Prevented unauthorized access by **40%** using JWT.  
-- Designed optimized MySQL schema improving query response time.  
+- Designed optimized MySQL schema improving query response time significantly.
 
 #### **🧭 PathFinder Algorithm Visualizer (C++, ReactJS, DSA)** — *Feb 2025*
 - Built real-time visualizer for **Dijkstra, BFS & DFS** algorithms.  
@@ -43,7 +39,7 @@
 - Added modes & speed levels, improving user interaction by **18%**.
 
 #### **⚡ Multi-Threaded Web Server (Java, JMeter, Socket Programming)** — *Dec 2024*
-- Implemented thread-pool server using ExecutorService improving server performance by **30%**.  
+- Implemented thread-pool server using ExecutorService improving app performance by **30%**.  
 - System handled **50% more traffic** with faster load times.
 
 ---
