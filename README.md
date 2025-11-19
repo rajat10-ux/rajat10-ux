@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-📞 **Mobile:** +91 8287725552  
 📧 **Email:** rkcp050@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/rajat-kumar-b17a41300  
 
@@ -18,8 +17,8 @@
 ---
 
 ### 💼 **Experience**
-#### **Software Developer Engineer Intern — STMicroelectronics**  
-*Jan 2025 – Oct 2025 | Greater Noida, UP*
+#### **Software Developer Engineer  — STMicroelectronics**  
+*Jan 2025 – Present | Greater Noida, UP*
 - Developed **production-ready REST APIs** using Spring Boot, improving semiconductor data workflows and reducing latency by **25%**.  
 - Enhanced API reliability with **50+ JUnit test cases**, reducing post-deployment defects by **30%**.  
 - Optimized MySQL using indexing & schema tuning, boosting query performance by **20%** and improving page load times by **15%**.
