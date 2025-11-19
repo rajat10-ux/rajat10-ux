@@ -1,32 +1,96 @@
-<h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
-<h3 align="center">A passionate coding enthusiast likes to code in c/c++ and likes to contribute in web development</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat10-ux&label=Profile%20views&color=0e75b6&style=flat" alt="rajat10-ux" /> </p>
-
-- 🔭 I’m currently working in  React Library**
-
-- 🌱 I’m currently learning **node js,and mongodb and other backend technologies**
-
-- 💬 Ask me about **html,css and js and in c/c++**
-
-- 📫 How to reach me **rajatko614@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajat-kumar-3a1a1622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-kumar-3a1a1622a" height="30" width="40" /></a>
-<a href="https://instagram.com/raj10_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj10_kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/coderrajat123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coderrajat123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajatko614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajatko614" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_rajatsrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_rajatsrivastav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajatko614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajatko614" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajatko614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajatko614" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.imgur.com/7yZ8F8s.png" width="100%" alt="Rajat Kumar | Software Developer Engineer">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
+<h3 align="center">Software Developer Engineer Intern @ STMicroelectronics | Java & Backend Developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat10-ux&show_icons=true&locale=en&layout=compact" alt="rajat10-ux" /></p>
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat10-ux&show_icons=true&locale=en" alt="rajat10-ux" /></p>
+📞 **Mobile:** +91 8287725552  
+📧 **Email:** rkcp050@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/rajat-kumar-b17a41300  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajat10-ux&" alt="rajat10-ux" /></p>
+---
+
+### 👨‍🎓 **Education**
+**J.C. Bose University of Science and Technology, Faridabad**  
+**B.Tech in Electronics & Computer Engineering (GPA: 8.01/10)**  
+*Dec 2021 – Aug 2025*  
+**Relevant Coursework:** DSA (C++), OOPS (Java), OS, DBMS, CN
+
+---
+
+### 💼 **Experience**
+#### **Software Developer Engineer Intern — STMicroelectronics**  
+*Jan 2025 – Oct 2025 | Greater Noida, UP*
+- Developed **production-ready REST APIs** using Spring Boot, improving semiconductor data workflows and reducing latency by **25%**.  
+- Enhanced API reliability with **50+ JUnit test cases**, reducing post-deployment defects by **30%**.  
+- Optimized MySQL using indexing & schema tuning, boosting query performance by **20%** and improving page load times by **15%**.
+
+---
+
+### 🚀 **Projects**
+
+#### **💰 Money Manager App (Spring Boot, Java, MySQL, JWT)** — *July 2025*
+- Built secure backend APIs for authentication, income/expense tracking & data management.  
+- Prevented unauthorized access by **40%** using JWT.  
+- Designed optimized MySQL schema improving query response time.  
+
+#### **🧭 PathFinder Algorithm Visualizer (C++, ReactJS, DSA)** — *Feb 2025*
+- Built real-time visualizer for **Dijkstra, BFS & DFS** algorithms.  
+- Used React memoization to improve maze rendering performance.  
+- Added modes & speed levels, improving user interaction by **18%**.
+
+#### **⚡ Multi-Threaded Web Server (Java, JMeter, Socket Programming)** — *Dec 2024*
+- Implemented thread-pool server using ExecutorService improving server performance by **30%**.  
+- System handled **50% more traffic** with faster load times.
+
+---
+
+### 🛠️ **Technical Skills**
+
+**Languages:** C, C++, Java  
+**Frameworks & Tech:** Spring Boot, Spring JPA, JDBC, JUnit, Mockito, Git  
+**Databases:** MySQL, MongoDB  
+**Core Concepts:** OS, Cache Memory, SOLID, Dependency Injection, DB Normalization, Design Patterns (Singleton, Factory, Builder)
+
+---
+
+### 🏆 **Achievements**
+- **LeetCode:** 1610+ rating  
+- **GeeksforGeeks:** 1400+ score  
+- **HackerRank:** 4⭐  
+- Solved **1000+ coding problems** across platforms.
+
+---
+
+### 🌐 **Connect with Me**
+<p align="left">
+<a href="https://linkedin.com/in/rajat-kumar-b17a41300" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+<a href="https://instagram.com/raj10_kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
+<a href="https://leetcode.com/rajatKumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
+<a href="https://auth.geeksforgeeks.org/user/rajatKumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/></a>
+</p>
+
+---
+
+### 🧰 **Languages & Tools**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> 
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajat10-ux&show_icons=true" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat10-ux" />
+</p>
