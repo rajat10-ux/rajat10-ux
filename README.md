@@ -5,7 +5,7 @@
 
 📧 **Email:** rkcp050@gmail.com
 🔗 **LinkedIn:** https://linkedin.com/in/rajat-kumar-b17a41300
-💻 **LeetCode:** https://leetcode.com/rajatKumar
+💻 **LeetCode:** https://leetcode.com/u/rajat-10/
 
 ---
 
