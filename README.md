@@ -59,7 +59,7 @@
 ---
 
 ### 🏆 Achievements
-- 🟠 **LeetCode Knight** — Rating **1610+** | Solved **500+ problems**
+- 🟠 **LeetCode** — Rating **1610+** | Solved **500+ problems**
 - 🟢 **GeeksforGeeks** — Score **1400+**
 - ⭐ **HackerRank** — 4 Star (Java)
 - ☕ **Oracle Certified Associate** — Java SE 8 Programmer
